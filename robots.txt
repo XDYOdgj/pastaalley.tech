@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://pastaalley.tech/sitemap.xml
